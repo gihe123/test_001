@@ -1,9 +1,9 @@
-package main
+﻿package main
 
 import "fmt"
 
 func main() {
-	var a int = 100
+	var a int = 110
 	var b int = 200
 	var ret int
 
